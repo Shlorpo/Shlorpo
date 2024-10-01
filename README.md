@@ -1,0 +1,2 @@
+- I do stuff sometimes
+- Sometimes the stuff I do Involves coding
