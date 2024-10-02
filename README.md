@@ -1,2 +1,1 @@
-- I do stuff sometimes
-- Sometimes the stuff I do Involves coding
+- We've all kicked a pregnant lady before.
